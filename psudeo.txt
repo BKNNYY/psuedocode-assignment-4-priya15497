@@ -1,6 +1,6 @@
 Priya Ramanathan, P-2
 
-First, choose all players- 2 or more
+First, choose all players- 2 or more most likely will have to be 1 player vs AI
 Then start seperating the cards evenly by the number of players 
 To play UNO, each player has to match the card in the discard pile by number, color, or word.
 If a player places a wild card:
@@ -20,3 +20,4 @@ If you win the game:
   Non-wild word cards: 20 points 
   Wild cards: 50 points
 The first player to reach 500 points wins the game
+the point stuff could be a little overcomplicated but this is pretty well formatted.
